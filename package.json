@@ -15,8 +15,8 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./03/index",
-    "start": "node ./03/index"
+    "dev": "nodemon ./03/server",
+    "start": "node ./03/server"
   },
   "dependencies": {
     "date-fns": "^4.1.0",
