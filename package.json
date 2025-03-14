@@ -15,11 +15,12 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./03/server",
-    "start": "node ./03/server"
+    "dev": "nodemon ./04/server",
+    "start": "node ./04/server"
   },
   "dependencies": {
     "date-fns": "^4.1.0",
+    "express": "^4.21.2",
     "uuid": "^11.1.0"
   },
   "devDependencies": {
