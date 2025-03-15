@@ -15,8 +15,8 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./05/server",
-    "start": "node ./05/server"
+    "dev": "nodemon ./06/server",
+    "start": "node ./06/server"
   },
   "dependencies": {
     "cors": "^2.8.5",
