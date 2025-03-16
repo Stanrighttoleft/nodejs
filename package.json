@@ -15,14 +15,17 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./07/server",
-    "start": "node ./07/server"
+    "dev": "nodemon ./08/server",
+    "start": "node ./08/server"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "date-fns": "^4.1.0",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
     "uuid": "^11.1.0"
   },
   "devDependencies": {
