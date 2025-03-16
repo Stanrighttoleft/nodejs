@@ -5,6 +5,7 @@ const cors=require('cors');
 const corsOptions=require('./config/corsOptions')
 const {logger}=require('./middleware/logEvents');
 const errorHandler=require('./middleware/errorHandler');
+const verifyJWT=require('./middleware/verifyJWT')
 
 const PORT=process.env.PORT || 3500;
 
@@ -34,6 +35,7 @@ app.use('/',require('./routes/root'));
 app.use('/register',require('./routes/register'));
 app.use('/auth',require('./routes/auth'));
 app.use('/subdir', require('./routes/subdir'));
+app.use(verifyJWT); //put verifyJWT in front of employees routes,makeit need token to access employees function
 app.use('/employees',require('./routes/api/employees'));
 
 //the following 404 page statement can also show like below
