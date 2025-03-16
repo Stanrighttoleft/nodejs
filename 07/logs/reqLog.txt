@@ -130,3 +130,15 @@
 20250315	22:03:01	dfa0fffb-8689-4cac-992a-ecef051eec49	PUT	undefined	/employees
 20250315	22:03:28	8f8c75cd-10d9-4407-90af-0bd9fa592c33	DELETE	undefined	/employees
 20250315	22:03:52	359536c0-925d-4749-a05e-597e638e8d39	GET	undefined	/employees/1
+20250316	15:29:40	c2ab0d22-0090-46f3-b776-3b4ad0883006	GET	undefined	/register
+20250316	15:30:03	7b0ba6a4-6f65-4de9-bb58-dc3ca4f5c201	GET	undefined	/register
+20250316	15:30:26	3e54470e-887b-415e-a444-c15fb7116452	GET	undefined	/register
+20250316	15:30:58	ec26c2e0-9573-4d78-8e13-93528446e3d9	GET	undefined	/register
+20250316	15:33:45	da1f1414-e807-4534-ba74-4d12f1062b25	GET	undefined	/register
+20250316	15:39:55	5ff529d6-1541-48bc-ab2e-68ae37466899	POST	undefined	/register
+20250316	15:47:37	3a101524-2f6c-4249-8343-3692f5dffacd	POST	undefined	/register
+20250316	16:33:18	9b7f0fcb-98ba-4a45-845d-e17ea498e03a	POST	undefined	/auth
+20250316	16:33:32	889cc6e3-01dc-4655-bf4b-183218202eaa	POST	undefined	/auth
+20250316	16:34:01	7adfbff2-ca3e-42c7-bf56-a6140b9c0f6a	POST	undefined	/register
+20250316	16:34:11	36e07bed-cd13-4f94-8c93-fd9c3e53d695	POST	undefined	/register
+20250316	16:35:01	0ce8589b-85ae-4fdb-9325-bd488a84035f	POST	undefined	/register
