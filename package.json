@@ -15,8 +15,8 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./08/server",
-    "start": "node ./08/server"
+    "dev": "nodemon ./09/server",
+    "start": "node ./09/server"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
