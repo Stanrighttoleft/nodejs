@@ -225,3 +225,9 @@
 20250317	17:43:28	64b38190-f662-422f-ad80-1d01afdddc05	POST	undefined	/auth
 20250317	17:43:45	6b756004-0a9b-4da1-80d5-7e681ba01367	POST	undefined	/employees
 20250317	17:43:51	18487464-aef7-4c3f-ac16-9be8af05cfa7	DELETE	undefined	/employees
+20250325	16:57:48	bc65e973-4eca-4988-952a-b88f093ffa6a	POST	undefined	/register
+20250325	17:32:15	0eb784db-9c15-4b8d-9eb0-3c3b964a1c50	POST	undefined	/register
+20250325	17:37:58	baa44b25-86d1-4e4d-801a-709fade21c94	POST	undefined	/register
+20250325	17:38:43	f1987219-6a9a-4f88-a315-7986706cd2b6	POST	undefined	/register
+20250325	17:54:35	ecccfad9-2a44-4d04-8553-27e090863922	POST	undefined	/register
+20250325	17:54:54	873023f9-fc73-4bd5-aecd-75778bdbcfd3	POST	undefined	/register
