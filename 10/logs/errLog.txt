@@ -3,3 +3,5 @@
 20250314	21:13:04	caf8b504-5aea-4684-bb5c-a5d3a2a57d5a	Error:Not allowed by cors
 20250314	21:14:48	1378fdfa-3a9c-4e1c-b2d0-a89d03f96cd1	Error:Not allowed by cors
 20250315	21:59:21	dc444926-b81a-43f7-a85d-dcede72f3fa5	ReferenceError:filteredArrary is not defined
+20250327	18:20:08	98e0113d-7241-4bee-904b-560cfbf52573	SyntaxError:Expected ',' or '}' after property value in JSON at position 12 (line 1 column 13)
+20250327	20:33:27	78bdc0e1-6aca-45b4-bd17-5c4cc9609cf0	SyntaxError:Expected ',' or '}' after property value in JSON at position 12 (line 1 column 13)
